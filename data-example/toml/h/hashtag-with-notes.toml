@@ -1,0 +1,37 @@
+[hashtag]
+  # Do not include the '#' sign
+  # Write in PascalCase
+  name = ""
+  #alt = [""]
+
+  # Use: https://www.random.org/strings/
+  # First four letters of the hashtag followed by a hyphen and four digits
+  id = ""
+
+  description = ""
+
+  # fitness, dailies, music, memories, etc.
+  category = [""]
+
+  [hashtag.extra]
+    # Fediverse, diaspora, Facebook, Twitter, Instagram, etc.
+    # Use 'Fediverse' instead of: Mastodon, Pixelfed, Hubzilla, Friendica,
+    #   BookWyrm, ActivityPub, etc.
+    # Tumblr recently announced it will connect to the Fediverse
+    usedin = [""]
+
+    # Historical information.
+    [hashtag.extra.started]
+      # Example: #ActuallyAutistics and #ActuallyAutistic started in Tumblr.
+      # Use 'Fediverse' where appropriate
+      #network = [""]
+      # YYYY or YYYY-MM-DD
+      #date = 2020
+
+    [hashtag.extra.popularity]
+      # content count
+      #count = ""
+      # date of content count
+      #date = ""
+      # source of count data
+      #source = ""

@@ -1,0 +1,18 @@
+[hashtag]
+  name = ""
+  #alt = [""]
+  id = ""
+  description = ""
+  category = [""]
+
+  [hashtag.extra]
+    usedin = [""]
+
+    [hashtag.extra.started]
+      #network = [""]
+      #date = 2020
+
+    [hashtag.extra.popularity]
+      #count = ""
+      #date = ""
+      #source = ""
