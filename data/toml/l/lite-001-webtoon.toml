@@ -1,12 +1,12 @@
 [hashtag]
-  name = ""
+  name = "Webtoon"
   #alt = [""]
-  id = ""
+  id = "webt-001"
   summary = ""
   description = """\
   """
   #related = [""]
-  category = [""]
+  category = ["Art", "Reading"]
 
   [hashtag.extra]
     seenin = ["Facebook", "Instagram", "Twitter"]

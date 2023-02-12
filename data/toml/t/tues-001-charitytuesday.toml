@@ -1,15 +1,15 @@
 [hashtag]
-  name = ""
+  name = "CharityTuesday"
   #alt = [""]
-  id = ""
+  id = "char-001"
   summary = ""
   description = """\
   """
   #related = [""]
-  category = [""]
+  category = ["Selflessness", "Dailies", "Tuesday"]
 
   [hashtag.extra]
-    seenin = ["Facebook", "Instagram", "Twitter"]
+    seenin = ["Fediverse", "Twitter"]
 
     [hashtag.extra.started]
       #network = [""]

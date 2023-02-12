@@ -1,0 +1,21 @@
+[hashtag]
+  name = "HugoAsk"
+  #alt = [""]
+  id = "hugo-002"
+  summary = "A hashtag for asking questions about Hugo, the world's fastest framework in creating websites."
+  description = """\
+  """
+  #related = [""]
+  category = ["QnA"]
+
+  [hashtag.extra]
+    seenin = ["Fediverse"]
+
+    [hashtag.extra.started]
+      network = ["Fediverse"]
+      date = 2022
+
+    [hashtag.extra.popularity]
+      #count = ""
+      #date = ""
+      #source = ""

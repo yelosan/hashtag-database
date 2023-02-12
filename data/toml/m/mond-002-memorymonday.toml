@@ -1,15 +1,15 @@
 [hashtag]
-  name = ""
-  #alt = [""]
-  id = ""
+  name = "MemoryMonday"
+  alt = ["MondayMemories"]
+  id = "mond-002"
   summary = ""
   description = """\
   """
   #related = [""]
-  category = [""]
+  category = ["Reminiscence"]
 
   [hashtag.extra]
-    seenin = ["Facebook", "Instagram", "Twitter"]
+    seenin = ["Fediverse", "Twitter"]
 
     [hashtag.extra.started]
       #network = [""]

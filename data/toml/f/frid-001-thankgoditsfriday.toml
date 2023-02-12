@@ -1,15 +1,15 @@
 [hashtag]
-  name = ""
-  #alt = [""]
-  id = ""
+  name = "ThankGodItsFriday"
+  alt = ["TGIF", "FridayNight", "Friyay"]
+  id = "than-002"
   summary = ""
   description = """\
   """
   #related = [""]
-  category = [""]
+  category = ["Fun", "Dailies", "Friday"]
 
   [hashtag.extra]
-    seenin = ["Facebook", "Instagram", "Twitter"]
+    seenin = ["Fediverse", "Facebook", "Instagram", "Twitter"]
 
     [hashtag.extra.started]
       #network = [""]

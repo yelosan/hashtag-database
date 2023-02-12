@@ -1,12 +1,12 @@
 [hashtag]
-  name = ""
+  name = "Webnovel"
   #alt = [""]
-  id = ""
+  id = "webn-001"
   summary = ""
   description = """\
   """
   #related = [""]
-  category = [""]
+  category = ["Art", "Reading"]
 
   [hashtag.extra]
     seenin = ["Facebook", "Instagram", "Twitter"]

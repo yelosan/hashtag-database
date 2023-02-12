@@ -1,15 +1,15 @@
 [hashtag]
-  name = ""
+  name = "Novel"
   #alt = [""]
-  id = ""
+  id = "nove-001"
   summary = ""
   description = """\
   """
   #related = [""]
-  category = [""]
+  category = ["Art", "Reading"]
 
   [hashtag.extra]
-    seenin = ["Facebook", "Instagram", "Twitter"]
+    seenin = ["Fediverse", "Facebook", "Twitter"]
 
     [hashtag.extra.started]
       #network = [""]

@@ -1,7 +1,7 @@
 [hashtag]
-  name = ""
-  #alt = [""]
-  id = ""
+  name = "MondayFeels"
+  alt = ["MondayMood"]
+  id = "mond-001"
   summary = ""
   description = """\
   """
@@ -9,7 +9,7 @@
   category = [""]
 
   [hashtag.extra]
-    seenin = ["Facebook", "Instagram", "Twitter"]
+    seenin = ["Fediverse", "Twitter"]
 
     [hashtag.extra.started]
       #network = [""]

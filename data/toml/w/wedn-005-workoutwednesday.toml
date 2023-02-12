@@ -1,0 +1,21 @@
+[hashtag]
+  name = "WorkoutWednesday"
+  alt = ["WednesdayWorkout"]
+  id = "work-001"
+  summary = "A mid-week workout hashtag to share how one is keeping in shape during work days."
+  description = """\
+  """
+  related = ["WellnessWednesday"]
+  category = ["Health", "Fitness", "Dailies", "Wednesday"]
+
+  [hashtag.extra]
+    seenin = ["Facebook", "Instagram", "Twitter"]
+
+    [hashtag.extra.started]
+      #network = [""]
+      #date = 2020
+
+    [hashtag.extra.popularity]
+      #count = ""
+      #date = ""
+      #source = ""

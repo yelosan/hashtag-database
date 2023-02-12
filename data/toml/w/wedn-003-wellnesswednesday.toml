@@ -1,0 +1,21 @@
+[hashtag]
+  name = "WellnessWednesday"
+  alt = ["WednesdayWellness"]
+  id = "well-001"
+  summary = "A mid-week hashtag to remind, share, and encourage everyone to prioritize their overall wellness."
+  description = """\
+  """
+  related = ["WorkoutWednesday"]
+  category = ["Health", "Fitness", "Dailies", "Wednesday"]
+
+  [hashtag.extra]
+    seenin = ["Facebook", "Instagram", "Twitter"]
+
+    [hashtag.extra.started]
+      #network = [""]
+      #date = 2020
+
+    [hashtag.extra.popularity]
+      #count = ""
+      #date = ""
+      #source = ""

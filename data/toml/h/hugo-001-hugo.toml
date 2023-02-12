@@ -1,15 +1,15 @@
 [hashtag]
-  name = ""
-  #alt = [""]
-  id = ""
-  summary = ""
+  name = "Hugo"
+  alt = ["GoHugo"]
+  id = "hugo-001"
+  summary = "The hashtag for Hugo, the world's fastest framework for building websites."
   description = """\
   """
   #related = [""]
-  category = [""]
+  category = ["Development"]
 
   [hashtag.extra]
-    seenin = ["Facebook", "Instagram", "Twitter"]
+    seenin = ["Fediverses", "Facebook", "Twitter"]
 
     [hashtag.extra.started]
       #network = [""]

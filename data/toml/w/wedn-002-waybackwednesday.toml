@@ -1,12 +1,12 @@
 [hashtag]
-  name = ""
+  name = "WaybackWednesday"
   #alt = [""]
-  id = ""
+  id = "wayb-001"
   summary = ""
   description = """\
   """
-  #related = [""]
-  category = [""]
+  related = ["MemoryMonday", "TimeHopTuesday", "ThrowbackThursday", "FlashbackFriday"]
+  category = ["Reminiscence", "Dailies", "Wednesday"]
 
   [hashtag.extra]
     seenin = ["Facebook", "Instagram", "Twitter"]

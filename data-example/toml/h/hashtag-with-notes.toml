@@ -8,9 +8,12 @@
   # First four letters of the hashtag followed by a hyphen and four digits
   id = ""
 
-  description = ""
+  summary = ""
 
   # fitness, dailies, music, memories, etc.
+  description = """\
+  """
+  #related = [""]
   category = [""]
 
   [hashtag.extra]
@@ -18,7 +21,7 @@
     # Use 'Fediverse' instead of: Mastodon, Pixelfed, Hubzilla, Friendica,
     #   BookWyrm, ActivityPub, etc.
     # Tumblr recently announced it will connect to the Fediverse
-    usedin = [""]
+    seenin = ["Facebook", "Instagram", "Twitter"]
 
     # Historical information.
     [hashtag.extra.started]

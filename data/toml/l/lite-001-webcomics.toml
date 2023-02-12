@@ -1,12 +1,12 @@
 [hashtag]
-  name = ""
+  name = "Webcomics"
   #alt = [""]
-  id = ""
+  id = "webc-001"
   summary = ""
   description = """\
   """
   #related = [""]
-  category = [""]
+  category = ["Art", "Reading"]
 
   [hashtag.extra]
     seenin = ["Facebook", "Instagram", "Twitter"]

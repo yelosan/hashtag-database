@@ -1,15 +1,15 @@
 [hashtag]
-  name = ""
+  name = "FitnessFriday"
   #alt = [""]
-  id = ""
+  id = "fitn-001"
   summary = ""
   description = """\
   """
   #related = [""]
-  category = [""]
+  category = ["Health", "Fitness"]
 
   [hashtag.extra]
-    seenin = ["Facebook", "Instagram", "Twitter"]
+    seenin = ["Facebook", "Instagram", "Twitter", "YouTube"]
 
     [hashtag.extra.started]
       #network = [""]

@@ -1,12 +1,12 @@
 [hashtag]
-  name = ""
-  #alt = [""]
-  id = ""
-  summary = ""
+  name = "WednesdayWisdom"
+  alt = ["WisdomWednesday"]
+  id = "wedn-001"
+  summary = "A hashtag to share advices, tips, and wisdom every Wednesday."
   description = """\
   """
   #related = [""]
-  category = [""]
+  category = ["Dailies", "Wednesday"]
 
   [hashtag.extra]
     seenin = ["Facebook", "Instagram", "Twitter"]

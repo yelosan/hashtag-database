@@ -1,15 +1,15 @@
 [hashtag]
-  name = ""
+  name = "SabbathDay"
   #alt = [""]
-  id = ""
+  id = "sabb-001"
   summary = ""
   description = """\
   """
   #related = [""]
-  category = [""]
+  category = ["Religious"]
 
   [hashtag.extra]
-    seenin = ["Facebook", "Instagram", "Twitter"]
+    seenin = ["Fediverse", "Facebook", "Instagram", "Twitter"]
 
     [hashtag.extra.started]
       #network = [""]

@@ -1,12 +1,13 @@
 [hashtag]
-  name = ""
+  name = "FeelGoodFriday"
   #alt = [""]
-  id = ""
-  summary = ""
+  id = "frid-002"
+  summary = "Positivity every Friday."
   description = """\
+    Positivity every Friday.
   """
-  #related = [""]
-  category = [""]
+  related = ["MondayFeels", "GoodNewsTues", "ThankfulThursday"]
+  category = ["Positivity"]
 
   [hashtag.extra]
     seenin = ["Facebook", "Instagram", "Twitter"]

@@ -1,7 +1,7 @@
 [hashtag]
-  name = ""
+  name = "SaturdaySelfie"
   #alt = [""]
-  id = ""
+  id = "satu-002"
   summary = ""
   description = """\
   """
@@ -9,7 +9,7 @@
   category = [""]
 
   [hashtag.extra]
-    seenin = ["Facebook", "Instagram", "Twitter"]
+    seenin = ["Fediverse", "Facebook", "Instagram", "Twitter"]
 
     [hashtag.extra.started]
       #network = [""]

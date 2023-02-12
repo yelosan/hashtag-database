@@ -1,12 +1,12 @@
 [hashtag]
-  name = ""
-  #alt = [""]
-  id = ""
+  name = "FollowFriday"
+  alt = ["FF"]
+  id = "foll-001"
   summary = ""
   description = """\
   """
-  #related = [""]
-  category = [""]
+  related = ["FeatureFriday"]
+  category = ["Recommendations"]
 
   [hashtag.extra]
     seenin = ["Facebook", "Instagram", "Twitter"]

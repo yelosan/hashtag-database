@@ -1,15 +1,15 @@
 [hashtag]
-  name = ""
+  name = "FlashbackFriday"
   #alt = [""]
-  id = ""
+  id = "flas-001"
   summary = ""
   description = """\
   """
   #related = [""]
-  category = [""]
+  category = ["Reminiscence"]
 
   [hashtag.extra]
-    seenin = ["Facebook", "Instagram", "Twitter"]
+    seenin = ["Facebook", "Instagram", "Twitter", "YouTube"]
 
     [hashtag.extra.started]
       #network = [""]

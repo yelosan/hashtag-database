@@ -1,0 +1,22 @@
+[hashtag]
+  name = "FeatureFriday"
+  alt = ["FridayFeature"]
+  id = "frid-001"
+  summary = "FeatureFriday is a hashtag used for featuring achievements and products ordinary people recommends."
+  description = """\
+    FeatureFriday is a hashtag used for featuring achievements and products ordinary people recommends.\
+  """
+  related = ["FollowFriday"]
+  category = ["Recommendations"]
+
+  [hashtag.extra]
+    seenin = ["Facebook", "Instagram", "Twitter"]
+
+    [hashtag.extra.started]
+      #network = [""]
+      #date = 2020
+
+    [hashtag.extra.popularity]
+      #count = ""
+      #date = ""
+      #source = ""

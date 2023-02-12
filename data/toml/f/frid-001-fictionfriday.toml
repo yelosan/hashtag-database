@@ -1,12 +1,12 @@
 [hashtag]
-  name = ""
+  name = "FictionFriday"
   #alt = [""]
-  id = ""
+  id = "frid-003"
   summary = ""
   description = """\
   """
   #related = [""]
-  category = [""]
+  category = ["Recommendations", "Reading", "Fiction"]
 
   [hashtag.extra]
     seenin = ["Facebook", "Instagram", "Twitter"]

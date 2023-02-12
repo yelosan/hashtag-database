@@ -1,12 +1,12 @@
 [hashtag]
-  name = ""
+  name = "ThursdayHealth"
   #alt = [""]
-  id = ""
+  id = "thur-002"
   summary = ""
   description = """\
   """
   #related = [""]
-  category = [""]
+  category = ["Health", "Dailies", "Thursday"]
 
   [hashtag.extra]
     seenin = ["Facebook", "Instagram", "Twitter"]
