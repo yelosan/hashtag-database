@@ -1,4 +1,4 @@
-# Database Contents License (DbCL) v1.0
+# Database Contents License (DbCL) v1.0 (DbCL-1.0)
 
 (Copied from [Database Contents License (DbCL) v1.0](https://opendatacommons.org/licenses/dbcl/1-0/) and converted to markdown on 2023-01-06.)
 
@@ -10,7 +10,7 @@ Open Data Commons is not a law firm and does not provide legal services of any k
 
 Open Data Commons has no formal relationship with you. Your receipt of this document does not create any kind of agent-client relationship. Please seek the advice of a suitably qualified legal professional licensed to practice in your jurisdiction before using this document.
 
-No warranties and disclaimer of any damages. This information is provided ‘as is‘, and this site makes no warranties on the information provided. Any damages resulting from its use are disclaimed.
+No warranties and disclaimer of any damages. This information is provided 'as is', and this site makes no warranties on the information provided. Any damages resulting from its use are disclaimed.
 
 A [plain text version](https://opendatacommons.org/licenses/dbcl/dbcl-10.txt) of the Database Contents License is available.
 
@@ -44,7 +44,7 @@ The Licensor takes the position that factual information is not covered by copyr
 
 ### 3.1
 
-The Contents are licensed by the Licensor “as is” and without any warranty of any kind, either express or implied, whether of title, of accuracy, of the presence of absence of errors, of fitness for purpose, or otherwise. Some jurisdictions do not allow the exclusion of implied warranties, so this exclusion may not apply to You.
+The Contents are licensed by the Licensor "as is" and without any warranty of any kind, either express or implied, whether of title, of accuracy, of the presence of absence of errors, of fitness for purpose, or otherwise. Some jurisdictions do not allow the exclusion of implied warranties, so this exclusion may not apply to You.
 
 ### 3.2
 
